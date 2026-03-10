@@ -25,4 +25,4 @@ This repository documents my 30-day sprint from Python basics to deploying a fun
 ## 📦 Setup & Installation
 1. Clone the repo:
    ```bash
-   git clone https://github.com
+   git clone git@github.com:vijayk111/my-first-agent.git
