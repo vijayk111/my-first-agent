@@ -1,0 +1,6 @@
+timestamp,server_id,cpu_usage,memory_usage,status
+2024-03-01 10:00,web-01,15.5,40,OK
+2024-03-01 10:05,db-01,88.2,75,CRITICAL
+2024-03-01 10:10,web-01,18.1,42,OK
+2024-03-01 10:15,db-01,92.5,78,CRITICAL
+2024-03-01 10:20,web-01,12.0,38,OK
